@@ -1,0 +1,10 @@
+Butterfly Works would like to introduce you to our first toolkit: 
+‘Butterfly Works toolkit No1: Building Bridges’ It is based on the tools we used to run the peace project 'Building Bridges'. We wish to share our tools and experiences with the aim of facilitating other people efforts. Building Bridges is a campaign which encourages, maps and connects peace initiatives across Kenya. The toolkit consists of a technical part, a case study and a 'How to'.  You can make use of our toolkit to start a similar campaign on your own or of course any other 'good' campaign you wish. The technical part is ready for use. The Casetudy and How to are  in the make (January 2011)
+
+The technical part:
+The map application exposes 100% of the Ushahidi front end and back end application functionality. Ushahidi (www.ushahidi.com) is a platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form. Now you can use it in a Joomla site.
+The Butterfly Toolkit no 1 focuses on positive and peace events or contexts and creates a platform to profile the long term process of a project, situation or context as we did with Building Bridges.
+
+The 'Butterfly Toolkit No1: Building Bridges' map application consists of one joomla component, and a series of modules that re-expose the Ushahidi front page separately. In addition to this, the application also contains a number of technicaI joomla extensions to enable Joomla to execute Ushahidi source code.
+
+Have a look at: http://butterflytoolkitno1.buildingbridges.co.ke to see how you can set up your own peace mapping campaign. Contact toolkit@butterflyworks.org if you have any questions.
