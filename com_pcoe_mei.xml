@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/1.5/component-install.dtd">
+<install type="component" version="1.5">
+	<name>PCOE_MEI</name>
+	<version>1.0</version>	
+	<copyright></copyright>
+	<creationDate>November 2009</creationDate>
+	<productName>PCOE MEI</productName>
+	<author>Sankuru Development Team &amp; Butterfly Works</author>
+	<authorEmail>serey@sankuru.biz</authorEmail>
+	<authorUrl>http://www.sankuru.biz</authorUrl>	
+	<license></license>
+	<warning>
+	</warning>	
+	<credits>
+	</credits>
+	<description>
+	This packages include all extensions in order for ushahidi to run in Joomla as PCOE component.
+	</description>
+	<files folder='site'>
+		<filename>pcoe_mei.php</filename>
+	</files>
+	<administration>
+		<!--menu>PCOE Multi Extensions Installers</menu-->
+		<files folder='admin'>
+			<filename>pcoe_mei.php</filename>
+			<filename>pcoe_info.php</filename>
+		</files>
+	</administration>
+	<installfile>install.com_pcoe_mei.php</installfile>
+	<uninstallfile>uninstall.com_pcoe_mei.php</uninstallfile>
+	<extension folder="extensions">
+		<filename>com_pcoe.zip</filename>
+		<filename>com_pcoe_core.zip</filename>
+		<filename>com_pcoe_core_kojo.zip</filename>
+		<filename>com_pcoe_core_patches.zip</filename>
+		<filename>com_cssmapper.zip</filename>
+		<filename>mod_cutter.zip</filename>
+		<filename>mod_pcoe_categoryfilter.zip</filename>
+		<filename>mod_pcoe_centralmap.zip</filename>
+		<filename>mod_pcoe_howtoreport.zip</filename>
+		<filename>mod_pcoe_latestincidents.zip</filename>
+		<filename>mod_pcoe_latestnews.zip</filename>
+		<filename>mod_pcoe_mediafilter.zip</filename>
+		<filename>mod_pcoe_periodchart.zip</filename>
+		<filename>mod_pcoe_periodfilter.zip</filename>
+		<filename>mod_pcoe_playbutton.zip</filename>
+		<filename>mod_pcoe_submitincident.zip</filename>
+		<filename>mod_bb_projectmsg.zip</filename>
+		<filename>mod_bb_cblogin.zip</filename>
+		<filename>pcoe_template.zip</filename>
+		<filename>plg_cssmapper.zip</filename>
+		<filename>plg_pcoe_sef.zip</filename>
+		<filename>plg_pcoe_search.zip</filename>
+		<filename>plg_pcoecssloader.zip</filename>
+		<filename>mod_cblogin.zip</filename>
+		<filename>com_pcoe_config.zip</filename>
+		<filename>com_comprofiler.zip</filename>
+	</extension>
+</install>
